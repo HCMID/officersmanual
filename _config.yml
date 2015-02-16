@@ -1,0 +1,33 @@
+# Dependencies
+kramdown:
+  input: GFM
+#markdown: redcarpet
+
+highlighter: pygments
+
+#:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            "HC MID officers' manual"
+tagline: ''
+description:      ''
+url:
+baseurl: '/officersmanual/'
+
+author:
+  name:           'Neel Smith'
+
+paginate:         5
+
+
+# Links:
+links:
+  - title: Club home page
+    url: http://HCMID.github.io/
+    external: true
+     
+     
+
